@@ -46,6 +46,8 @@ public class XMLParserSAX {
 		}
 		//setFormattedMessage(message);
 		System.out.println(message);
+		// THis is my new changes.
+		// Shall I check if I need to change thisfile.
         
     } catch (ParserConfigurationException | SAXException | IOException e) {
         e.printStackTrace();
